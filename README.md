@@ -19,6 +19,4 @@ _Spring Boot based solution which could read a CSV file (as part of the class pa
 
 Health Check URL: http://localhost:8090/task/actuator/health
 
-<br />
-
 The REST end points available in the solution can be found at http://localhost:8090/task/swagger-ui/
