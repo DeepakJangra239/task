@@ -1,0 +1,6 @@
+EmployeeID,EmployeeName,Title,BusinessUnit,Place,SupervisorID,Competencies,Salary
+1,Avinash Singh,Cheif  Technology Officer,MANAGEMENT,Gurugram,"",Management and Technical Skills,8000000
+2,Deeapk Jangra,Team Lead,MANAGEMENT,"Gurugram",1,Management and Technical Skills,1400000
+3,Sourabh Mehta,Senior Software Developer,ENGINEERING,"Gurugram",2,Technical Skills,1000000
+4,Priyanka Sharma,Senior Software Developer,ENGINEERING,"Gurugram",2,Technical Skills,1000000
+5,Aditi Singh,Software Developer,ENGINEERING,"Gurugram",3,Technical Skills,800000
