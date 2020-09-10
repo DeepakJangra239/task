@@ -17,10 +17,8 @@ _Spring Boot based solution which could read a CSV file (as part of the class pa
 
 ###### Current Port configuration: 8090 (Update under application properties as required)
 
-Health Check URL: 
-######http://localhost:8090/task/actuator/health
+Health Check URL: http://localhost:8090/task/actuator/health
 
 <br />
 
-The REST end points available in the solution can be found at 
-######http://localhost:8090/task/swagger-ui/
+The REST end points available in the solution can be found at http://localhost:8090/task/swagger-ui/
