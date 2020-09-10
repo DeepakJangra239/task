@@ -13,6 +13,8 @@ _Spring Boot based solution which could read a CSV file (as part of the class pa
 
 ##### Additional Libraries: Lombok, Swagger, OpenCSV, JUnit
 
+###### Getting Started Guide can be found <a href="HELP.md">here</a>.
+
 <br />
 
 ###### Current Port configuration: 8090 (Update under application properties as required)
